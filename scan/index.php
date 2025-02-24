@@ -146,7 +146,7 @@
             color: #333;
         }
         body {
-            background-image: url('https://i.imgur.com/Lq8mgHu_d.webp?maxwidth=760&fidelity=grand');
+            background-image: url('./6.png');
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
